@@ -1,0 +1,1 @@
+export const Textarea = ({ value, onChange, placeholder }) => <textarea value={value} onChange={onChange} placeholder={placeholder} className='border p-2 rounded w-full' />;
